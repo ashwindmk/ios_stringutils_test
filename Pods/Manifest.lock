@@ -1,0 +1,16 @@
+PODS:
+  - IOSStringUtils (0.1.0)
+
+DEPENDENCIES:
+  - IOSStringUtils (from `~/iOS/IOSStringUtils`)
+
+EXTERNAL SOURCES:
+  IOSStringUtils:
+    :path: "~/iOS/IOSStringUtils"
+
+SPEC CHECKSUMS:
+  IOSStringUtils: be8a87167d18f3ceb83ff2666cb1acbd632b30d9
+
+PODFILE CHECKSUM: fba9c3d35e5545d1fab9a28fe25c86a581f01978
+
+COCOAPODS: 1.5.3
